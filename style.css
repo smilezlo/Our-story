@@ -646,7 +646,7 @@ button:active{
     padding:35px;
     box-shadow:0 20px 50px rgba(0,0,0,.35);
 
-    max-height:40vh;   /* было 70vh */
+    max-height:calc(100dvh - 260px);  /* было 70vh */
     overflow-y:auto;
 
     margin-bottom:15px; /* место под кнопку */
