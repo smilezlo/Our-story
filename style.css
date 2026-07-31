@@ -114,7 +114,9 @@ body{
     align-items:center;
 
     text-align:center;
-
+   
+    padding:15px;
+   
     .scene{
     padding-bottom: max(25px, env(safe-area-inset-bottom));
     }
