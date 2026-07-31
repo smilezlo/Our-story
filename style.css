@@ -969,9 +969,9 @@ button:active{
 #magicLetter{
 display:flex;
 flex-direction:column;
-height:calc(100dvh - 220px);
-max-height:calc(100dvh - 220px);
-margin-top:-40px;
+height:calc(100dvh - 320px);
+max-height:calc(100dvh - 320px);
+margin-top:-80px;
 }
 .paper{
 display:flex;
@@ -986,6 +986,7 @@ padding-right:6px;
 }
 #continueButton{
 display:block;
-margin:16px auto 0;
+margin:10px auto 0;
 flex-shrink:0;
+}
 }
